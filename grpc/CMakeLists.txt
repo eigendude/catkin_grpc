@@ -17,7 +17,7 @@ set(GFLAGS_TAG 30dbc81fb5ffdc98ea9b14b1918bfe4e8779b26e)
 set(GOOGLETEST_TAG ec44c6c1675c25b9827aacd08c02433cccde7780)
 set(LIBCXX_TAG 6599cac0965be8e5a835ab7a5684bbef033d5ad0)
 set(LIBCXXABI_TAG 9245d481eb3e890f708ff2d7dadf2a10c04748ba)
-set(PROTOBUF_TAG 48cb18e5c419ddd23d9badcfe4e9df7bde1979b2)
+set(PROTOBUF_TAG v3.7.1)
 set(ZLIB_TAG cacf7f1d4e3d44d871b605da3b647f07d718623f)
 
 set(GRPC_URL https://github.com/eigendude/grpc/archive/${GRPC_TAG}.tar.gz)
