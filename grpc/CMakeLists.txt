@@ -6,7 +6,7 @@ add_compile_options(-std=c++11)
 
 find_package(catkin REQUIRED)
 
-set(GRPC_TAG 1a60e6971f428323245a930031ad267bb3142ba4)
+set(GRPC_TAG d8764ca02aac3d3ad3389603ddc449c5f80b66fd)
 set(ABSEIL_TAG cc4bed2d74f7c8717e31f9579214ab52a9c9c610)
 set(BENCHMARK_TAG 5b7683f49e1e9223cf9927b24f6fd3d6bd82e3f8)
 set(BLOATY_TAG 73594cde8c9a52a102c4341c244c833aa61b9c06)
@@ -20,7 +20,7 @@ set(LIBCXXABI_TAG 9245d481eb3e890f708ff2d7dadf2a10c04748ba)
 set(PROTOBUF_TAG 48cb18e5c419ddd23d9badcfe4e9df7bde1979b2)
 set(ZLIB_TAG cacf7f1d4e3d44d871b605da3b647f07d718623f)
 
-set(GRPC_URL https://github.com/grpc/grpc/archive/${GRPC_TAG}.tar.gz)
+set(GRPC_URL https://github.com/eigendude/grpc/archive/${GRPC_TAG}.tar.gz)
 set(ABSEIL_URL https://github.com/abseil/abseil-cpp/archive/${ABSEIL_TAG}.tar.gz)
 set(BENCHMARK_URL https://github.com/google/benchmark/archive/${BENCHMARK_TAG}.tar.gz)
 set(BLOATY_URL https://github.com/google/bloaty/archive/${BLOATY_TAG}.tar.gz)
