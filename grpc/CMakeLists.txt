@@ -6,7 +6,7 @@ add_compile_options(-std=c++11)
 
 find_package(catkin REQUIRED)
 
-set(GRPC_TAG d8764ca02aac3d3ad3389603ddc449c5f80b66fd)
+set(GRPC_TAG a5eea5147f168791933e387f76d099bbcee86bbd)
 set(ABSEIL_TAG cc4bed2d74f7c8717e31f9579214ab52a9c9c610)
 set(BENCHMARK_TAG 5b7683f49e1e9223cf9927b24f6fd3d6bd82e3f8)
 set(BLOATY_TAG 73594cde8c9a52a102c4341c244c833aa61b9c06)
